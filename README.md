@@ -1,3 +1,3 @@
 # yashparikh02.github.io
 
-My personal webpage
+Learn about me and view my website hosted on github pages
